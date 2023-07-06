@@ -58,10 +58,12 @@ The onboarding screen uses the BLoC (Business Logic Component) pattern for state
 
 The BLoC classes used in this project are:
 
-OnboardingBloc: Manages the state and handles events related to the onboarding flow.
-OnboardingEvent: Represents the different events that can occur during the onboarding process.
-OnboardingState: Defines the various states that the onboarding screen can be in.
+<b>OnboardingBloc</b>: Manages the state and handles events related to the onboarding flow. <br>
+<b>OnboardingEvent</b>: Represents the different events that can occur during the onboarding process. <br>
+<b>OnboardingState</b>: Defines the various states that the onboarding screen can be in. <br><br>
 The OnboardingBloc listens for events, updates the state accordingly, and emits the updated state to the UI. The UI components subscribe to the state changes and update their appearance based on the current state.
+
+# Feel free to explore and modify the code to fit your app's requirements!
 
 --- 
 If you like this repository, do <img src="https://user-images.githubusercontent.com/62079355/200077014-f3e95bba-57a6-4c7a-b26a-212bf18e5162.png" width=25 height=25> and <img src="https://user-images.githubusercontent.com/62079355/220893415-ea2015e9-6df6-4de2-ab66-041a3f890be2.png" width=25 height=25> the repo for more amazing stuff coming soon.
