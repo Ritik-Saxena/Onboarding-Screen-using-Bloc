@@ -51,7 +51,11 @@ The project follows a recommended folder structure for better organization and m
 <b>bloc/</b>: Contains the BLoC implementation for managing the onboarding flow. <br>
 <b>screens/</b>: Holds the main onboarding screen widget that orchestrates the flow.
 
+<br>
+
 ---
+
+<br>
 
 ## State Management with BLoC
 The onboarding screen uses the BLoC (Business Logic Component) pattern for state management. It separates the UI from business logic, making the code more maintainable and testable.
@@ -63,7 +67,7 @@ The BLoC classes used in this project are:
 <b>OnboardingState</b>: Defines the various states that the onboarding screen can be in. <br><br>
 The OnboardingBloc listens for events, updates the state accordingly, and emits the updated state to the UI. The UI components subscribe to the state changes and update their appearance based on the current state.
 
-# Feel free to explore and modify the code to fit your app's requirements!
+#### Feel free to explore and modify the code to fit your app's requirements!
 
 --- 
 If you like this repository, do <img src="https://user-images.githubusercontent.com/62079355/200077014-f3e95bba-57a6-4c7a-b26a-212bf18e5162.png" width=25 height=25> and <img src="https://user-images.githubusercontent.com/62079355/220893415-ea2015e9-6df6-4de2-ab66-041a3f890be2.png" width=25 height=25> the repo for more amazing stuff coming soon.
