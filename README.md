@@ -6,6 +6,15 @@
 
 
 https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png
-![octocat-anime](https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/ce4dad91-f66a-47de-946d-ee1d37ef68ce)
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
+<img align='right' src='https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/ce4dad91-f66a-47de-946d-ee1d37ef68ce' width='150'>
+
+
+--- 
+If you like this repository, do <img src="https://user-images.githubusercontent.com/62079355/200077014-f3e95bba-57a6-4c7a-b26a-212bf18e5162.png" width=25 height=25> and <img src="https://user-images.githubusercontent.com/62079355/220893415-ea2015e9-6df6-4de2-ab66-041a3f890be2.png" width=25 height=25> the repo for more amazing stuff coming soon.
+
+---
+[![GitHub stars](https://img.shields.io/github/stars/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
+[![GitHub followers](https://img.shields.io/github/followers/Ritik-Saxena?style=social)](https://github.com/Ritik-Saxena?tab=followers)
+[![GitHub forks](https://img.shields.io/github/forks/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
+[![GitHub watchers](https://img.shields.io/github/watchers/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
