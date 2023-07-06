@@ -23,7 +23,15 @@ This project implements an onboarding screen using the BLoC state management pat
 
 ## Screens
 <img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/30aa916d-c616-471b-a9ef-3db18660b8c6" height=457, width=211>
+<img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/30aa916d-c616-471b-a9ef-3db18660b8c6" height=457, width=211>
+<img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/30aa916d-c616-471b-a9ef-3db18660b8c6" height=457, width=211>
+<br>
+
 <img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/30aa916d-c616-471b-a9ef-3db18660b8c6" height=533, width=245>
+<img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/30aa916d-c616-471b-a9ef-3db18660b8c6" height=533, width=245>
+<img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/30aa916d-c616-471b-a9ef-3db18660b8c6" height=533, width=245>
+
+<br>
 <img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/2d3e67e4-84a0-4e90-abde-aa1623bfaf05" height=609, width=281>
 <img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/dc3223fe-d8de-4006-97d4-a5a7228ca142" height=609, width=281>
 
