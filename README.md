@@ -8,11 +8,49 @@
 # Onboarding Screen using Bloc <br> [![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)&nbsp;[![Instagram](https://img.shields.io/twitter/url?label=%40ultimateflutter&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fultimateflutter%2F)](https://www.instagram.com/ultimateflutter/)
 > Connect with me on Instagram <a href='https://www.instagram.com/ritiksaxenaofficial/'>@ritiksaxenaofficial</a>
 
+<br>
+This project implements an onboarding screen using the BLoC state management pattern in Flutter. The onboarding screen is typically the first screen that users see when they launch the app for the first time, and it provides an introduction to the app's features and guides users through the initial setup.
 
+## Features
+* A sleek and user-friendly onboarding screen design.
+* Multiple screens/pages with customizable content and illustrations.
+* BLoC state management for managing the onboarding flow.
+* Seamless navigation between onboarding screens.
+* Persistent state management to remember the user's onboarding progress.
+* Easy customization and extension for adding new screens.
 
+## Screens
 <img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/30aa916d-c616-471b-a9ef-3db18660b8c6" height=609, width=281>
 <img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/2d3e67e4-84a0-4e90-abde-aa1623bfaf05" height=609, width=281>
 <img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/dc3223fe-d8de-4006-97d4-a5a7228ca142" height=609, width=281>
+
+## Preview
+<img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/c3227396-9127-456f-9e6d-7c291899f330" height=600, width=290>
+
+
+## Folder Structure
+The project follows a recommended folder structure for better organization and maintainability:
+
+<pre>
+```
+  lib/
+|- bloc/
+|  |- onboarding_bloc.dart
+|  |- onboarding_event.dart
+|  |- onboarding_state.dart
+|
+|- models/
+|  |- onboarding_page.dart
+|
+|- screens/
+|  |- onboarding_screen.dart
+|
+|- widgets/
+   |- onboarding_page.dart
+
+```
+</pre>
+
 
 
 
