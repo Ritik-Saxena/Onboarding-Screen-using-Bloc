@@ -1,2 +1,4 @@
 *.c++ linguist-detectable=false
 *.cmake linguist-detectable=false
+README.md linguist-generated=true
+*.md linguist-language=Dart
