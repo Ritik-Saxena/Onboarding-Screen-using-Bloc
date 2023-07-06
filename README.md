@@ -1,13 +1,16 @@
 <img src="https://user-images.githubusercontent.com/62079355/121505629-9f847180-ca00-11eb-8db6-155e61a091a5.png" align="right" style: height=150 width=150/>
 
-# Flutter Concepts & More Stuff <br> [![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)&nbsp;[![Instagram](https://img.shields.io/twitter/url?label=%40ultimateflutter&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fultimateflutter%2F)](https://www.instagram.com/ultimateflutter/)
+<img align='right' src='https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/30c43a63-23b5-42a2-b39b-4ef28d0b1f1e' width='150'>
+
+
+<img align='right' src='https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/ce4dad91-f66a-47de-946d-ee1d37ef68ce' width='150'>
+
+# Onboarding Screen using Bloc <br> [![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)&nbsp;[![Instagram](https://img.shields.io/twitter/url?label=%40ultimateflutter&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fultimateflutter%2F)](https://www.instagram.com/ultimateflutter/)
 > Connect with me on Instagram <a href='https://www.instagram.com/ritiksaxenaofficial/'>@ritiksaxenaofficial</a>
 
 
 
-https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png
 
-<img align='right' src='https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/ce4dad91-f66a-47de-946d-ee1d37ef68ce' width='150'>
 
 
 <img src="https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/842b9f84-14c6-4873-bb8b-aa08b72e8954" height=609, width=281>
