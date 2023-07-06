@@ -2,16 +2,16 @@
 
 <img align='right' src='https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/30c43a63-23b5-42a2-b39b-4ef28d0b1f1e' width='200'>
 
-
-<img align='right' src='https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/ce4dad91-f66a-47de-946d-ee1d37ef68ce' width='150'>
-
 # Onboarding Screen using Bloc <br> [![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)&nbsp;[![Instagram](https://img.shields.io/twitter/url?label=%40ultimateflutter&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fultimateflutter%2F)](https://www.instagram.com/ultimateflutter/)
 > Connect with me on Instagram <a href='https://www.instagram.com/ritiksaxenaofficial/'>@ritiksaxenaofficial</a>
 
 <br>
 This project implements an onboarding screen using the BLoC state management pattern in Flutter. The onboarding screen is typically the first screen that users see when they launch the app for the first time, and it provides an introduction to the app's features and guides users through the initial setup.
 
+
 ## Features
+<img align='right' src='https://github.com/Ritik-Saxena/Onboarding-Screen-using-Bloc/assets/62079355/ce4dad91-f66a-47de-946d-ee1d37ef68ce' width='150'>
+
 * A sleek and user-friendly onboarding screen design.
 * Multiple screens/pages with customizable content and illustrations.
 * BLoC state management for managing the onboarding flow.
